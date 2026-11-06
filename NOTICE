@@ -1,0 +1,10 @@
+GoodbyeDPI Turkey + Tray
+
+This repository is a fork of GoodbyeDPI-Turkey by cagritaskn
+(https://github.com/cagritaskn/GoodbyeDPI-Turkey), which is itself a fork of
+GoodbyeDPI by ValdikSS (https://github.com/ValdikSS/GoodbyeDPI).
+The original work is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Modifications in this fork:
+- Added tray-app/ (system tray app and Windows service controller for GoodbyeDPI Turkey).
+  Copyright 2026 Kayra Ulusoy. Licensed under the Apache License, Version 2.0.

@@ -2,6 +2,11 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey.svg)](#)
 [![Downloads](https://img.shields.io/github/downloads/cagritaskn/GoodbyeDPI-Turkey/total.svg)](https://github.com/cagritaskn/GoodbyeDPI-Turkey/releases/)
 
+> **Tepsi uygulaması (bu fork):** Bu fork, GoodbyeDPI Turkey'e bir sistem tepsisi uygulaması ekler: tek seferlik kurulumdan sonra yönetici izni olmadan Tüm Sistem / Sadece Discord / Kapalı modları arasında geçiş yapabilirsiniz. Ayrıntılar ve kurulum için **[`tray-app/README.md`](tray-app/README.md)**.
+> GoodbyeDPI: [ValdikSS](https://github.com/ValdikSS/GoodbyeDPI) · Türkiye versiyonu: [cagritaskn](https://github.com/cagritaskn/GoodbyeDPI-Turkey).
+>
+> *English:* this fork adds a system tray app for switching modes without admin rights — see [`tray-app/README.md`](tray-app/README.md).
+
 > **macOS desteği:** Bu fork artık macOS'ta da çalışır (Intel ve Apple Silicon).
 > Hızlı başlangıç için **[`macOS Kullanıcıları İçin`](https://github.com/cagritaskn/GoodbyeDPI-Turkey#macos-kullan%C4%B1c%C4%B1lar%C4%B1-i%CC%87%C3%A7in)** başlığını ziyaret edebilirsiniz.
 
